@@ -1,0 +1,79 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    }
+header{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+nav{
+    width: 50%;
+    float: right;
+}
+nav ul{
+
+list-style: none;
+float: right;
+}
+nav ul li{
+
+float: left;
+
+margin-left: 50px;
+
+text-transform: uppercase;
+color: #626262;
+font-size: 14pt;
+font-family: 'Playfair Display', serif;
+}
+.banner{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    }
+.banner img{
+    width: 100%;
+    }
+.photodairy{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 60px;
+        }
+.photodairy h5{
+    font-size: 14pt;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-bottom: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    
+    }
+.photodairy h1{
+    font-size: 30pt;
+    color: #626262;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    font-family: 'Playfair Display', serif;
+    }
+.photodairy p{
+    font-size: 14pt;
+    color: #626262;
+    margin-bottom: 60px;
+    font-family: 'Playfair Display', serif;
+    }
+.photodairy h6{
+    font-size: 12pt;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-bottom: 60px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
